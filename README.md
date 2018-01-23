@@ -1,4 +1,4 @@
-<b>Simple Machine Learning Framework</b>/n
+<b>Simple Machine Learning Framework</b> 
 Version: 3.0
 
 Authors: Gurveer Dhindsa,
